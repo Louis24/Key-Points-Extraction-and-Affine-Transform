@@ -17,7 +17,6 @@ canvas = np.float32([[0, 0], [540, 0], [0, 750], [540, 750]])
 
 ## Contour Plot
 ![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/contour.png)
-<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/contour.png" style="align: center" width="75%" height="75%"/>
 
 
 ## Affine Transform
