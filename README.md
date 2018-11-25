@@ -16,10 +16,18 @@ canvas = np.float32([[0, 0], [540, 0], [0, 750], [540, 750]])
 
 
 ## Contour Plot
-<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/contour.png" style="align: center" width="25%" height="25%"/>
+![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/contour.png)
 
 
 ## Affine Transform
 <div align=center>
 <img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png" style="align: center" width="25%" height="25%"/>
+</div>
+
+<div align=center>
+<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png" width="50%" height="50%"/>
+</div>
+
+<div align=center>
+<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png"/>
 </div>
