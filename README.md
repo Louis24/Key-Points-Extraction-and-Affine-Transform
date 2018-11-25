@@ -14,10 +14,17 @@ canvas = np.float32([[0, 0], [540, 0], [0, 750], [540, 750]])
 ## Input
 ![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/crescent.png)
 
-## Affine Transform
-![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png)
 
 ## Contour Plot
 ![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/contour.png)
+
+
+## Affine Transform
+![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png)
+
+
+<div align="center">
+<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png" alt="4 Dog Problem">
+</div>
 
 
