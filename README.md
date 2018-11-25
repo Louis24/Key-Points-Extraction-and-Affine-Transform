@@ -20,11 +20,8 @@ canvas = np.float32([[0, 0], [540, 0], [0, 750], [540, 750]])
 
 
 ## Affine Transform
-![](https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png)
-
-
 <div align="center">
-<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png" alt="4 Dog Problem">
+<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png">
 </div>
 
 
