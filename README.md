@@ -21,7 +21,7 @@ canvas = np.float32([[0, 0], [540, 0], [0, 750], [540, 750]])
 
 ## Affine Transform
 <div align="center">
-<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png">
+<img src="https://github.com/Louis24/Key-Points-Extraction-and-Affine-Transform/blob/master/affine.png" width="50%" height="50%"/>
 </div>
 
 
